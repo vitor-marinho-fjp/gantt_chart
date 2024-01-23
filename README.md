@@ -1,5 +1,5 @@
 
-![Gráfico de Férias](grafico_ferias.png){width=50%}
+![Gráfico de Férias](grafico_ferias.png){width=10%}
 
 ## Visão Geral
 
