@@ -1,7 +1,7 @@
 
 ## Visão Geral
 
-Graáfico para visualizar dados de férias de funcionários usando as bibliotecas `matplotlib` e `seaborn`. O código R original cria um gráfico para exibir os períodos de férias de funcionários em uma organização específica (CIS) para o ano de 2024.
+Graáfico para visualizar dados de férias de funcionários usando as bibliotecas `matplotlib` e `seaborn`. Cria um gráfico para exibir os períodos de férias de funcionários.
 
 ## Pré-requisitos
 
@@ -22,10 +22,6 @@ python seu_script.py
 ```
 
 3. O gráfico será gerado e salvo como um arquivo PDF chamado `ferias_cis.pdf` no mesmo diretório.
-
-## Visualização
-
-A imagem abaixo ilustra o gráfico gerado pelo script:
 
 
 ```
